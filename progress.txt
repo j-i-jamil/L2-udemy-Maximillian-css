@@ -1,1 +1,1 @@
-Start from: lecture 16
+More on Selectors & CSS Features : lecture 2
